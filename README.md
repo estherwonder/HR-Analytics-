@@ -28,7 +28,7 @@ Additionally, for the department column, "Human Resources" was abbreviated to "H
 
 To explore the key performance indicators (KPIs) highlighted for this HR analytics project, the data was transformed into visualizations for effective communication. Data Analysis Expressions (DAX) were used to create two measures: "Attrition Rate" and "Active Employees." These calculations were then used to compare attrition and active employee metrics against other variables to uncover correlations and insights.
 
-![HR Analytics Dashboard](https://github.com/estherwonder/HR-Analytics-/assets/145384641/44e7c518-9fd3-4fe5-80e6-73d8e330598f)
+![HR Analytics Dashboard](https://github.com/estherwonder/HR-Analytics-/assets/145384641/91bb6e30-214b-4a04-91fc-e30b6a0b29d1)
 
 ### Insights
 This analysis provides a comprehensive overview of employee attrition, performance, and job satisfaction, highlighting key areas for potential improvement in employee retention and engagement strategies.
