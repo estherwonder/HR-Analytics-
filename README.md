@@ -1,6 +1,6 @@
 
 # HR Analytics
-Dashboard link: https://app.powerbi.com/groups/me/reports/6a7a5f5f-3fc9-4a8c-bcb6-0443f0c49ac7/ReportSection?experience=power-bi
+Dashboard link: [https://app.powerbi.com/groups/me/reports/6a7a5f5f-3fc9-4a8c-bcb6-0443f0c49ac7/ReportSection?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiMjg0MjQ0NjItZWM4ZC00NDVjLWFkMmUtMDcwYzhlMjQ4NjBjIiwidCI6IjZhZWZhZTNjLTE4ODYtNGNhMi1iZDhhLTNiODc2MDc2MjQwYSJ9)
 
 ### Overview
 HR Analytics involves collecting, analyzing, and interpreting data to gain insights and inform strategic decision-making about personnel. This process is crucial for organizations aiming for growth, as retaining top talent is essential for sustained success. Understanding employee satisfaction within the organization is equally important. Employees drive profit, which is vital for any business. HR Analytics enables organizations to make well-informed decisions about their workforce, ultimately contributing to overall profitability and success.
